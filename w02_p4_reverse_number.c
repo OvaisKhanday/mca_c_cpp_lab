@@ -1,0 +1,1 @@
+// Write a program to reverse the digits of a given number. For example, the number 9876 should be returned as 6789.

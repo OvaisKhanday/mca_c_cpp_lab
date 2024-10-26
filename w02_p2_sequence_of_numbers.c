@@ -1,0 +1,1 @@
+// Write a program to generate a sequence of numbers in both ascending and descending order.Write a program to generate pascals triangle.

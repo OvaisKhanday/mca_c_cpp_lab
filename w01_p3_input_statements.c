@@ -1,0 +1,1 @@
+// Write a program that demonstrate the use of various input statements like getchar(), getch(), scanf().
