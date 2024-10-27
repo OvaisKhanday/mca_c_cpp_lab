@@ -5,7 +5,7 @@
 - [x] 1. Write a program to demonstrate the use of Output statements that draws any object of your choice e.g. Christmas Tree using ‘\*’
 - [x] 2. Write a program that reads in a month number and outputs the month name.
 - [x] 3. Write a program that demonstrate the use of various input statements like getchar(), getch(), scanf().
-- [ ] 4. Write a program to demonstrate the overflow and underflow of various datatype and their resolution?
+- [x] 4. Write a program to demonstrate the overflow and underflow of various datatype and their resolution?
 
 ## Week 2
 
