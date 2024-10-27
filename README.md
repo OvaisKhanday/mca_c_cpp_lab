@@ -10,7 +10,7 @@
 ## Week 2
 
 - [ ] 1. Write a program to demonstrate the precedence of various operators.
-- [ ] 2. Write a program to generate a sequence of numbers in both ascending and descending order.
+- [x] 2. Write a program to generate a sequence of numbers in both ascending and descending order.
 - [ ] 3. Write a program to generate pascals triangle.
 - [ ] 4. Write a program to reverse the digits of a given number. For example, the number 9876 should be returned as 6789.
 
