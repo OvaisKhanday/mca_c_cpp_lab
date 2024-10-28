@@ -18,7 +18,7 @@
 
 - [x] 1. Write a program to convert an amount (upto billion) in figures to equivalent amount in words.
 - [x] 2. Write a program to find sum of all prime numbers between 100 and 500.
-- [ ] 3. Create a one dimensional array of characters and store a string inside it by reading from standard input.
+- [x] 3. Create a one dimensional array of characters and store a string inside it by reading from standard input.
 - [x] 4. Write a program to input 20 arbitrary numbers in one-dimensional array. Calculate Frequency of each number. Print the number and its frequency in a tabular form.
 
 ## Week 4
