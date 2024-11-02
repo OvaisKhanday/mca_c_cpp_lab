@@ -5,12 +5,12 @@
 int main(){
 
     printf("Ascending Order\n");
-    for (int i = 0; i < 100; i++){
-        printf("%d\t|\t", i);
+    for (int i = 0; i < 20; i++){
+        printf("%d, ", i);
     }
     printf("\nDescending Order\n");
-    for (int i = 100; i>=0; i--){
-        printf("%d\t|\t", i);
+    for (int i = 20; i>=0; i--){
+        printf("%d, ", i);
     }
         return 0;
 }
