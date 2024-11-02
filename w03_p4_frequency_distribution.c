@@ -7,7 +7,7 @@ int main()
 {
 
     int nums[SIZE];
-    printf("Enter 20 numbers: \n");
+    printf("Enter %d numbers: \n", SIZE);
     for (int i = 0; i < SIZE; i++)
     {
         scanf("%d", &nums[i]);
