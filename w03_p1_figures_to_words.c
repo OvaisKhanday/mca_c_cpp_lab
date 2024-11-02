@@ -11,7 +11,9 @@ char *toWords(unsigned long long figure, char *words);
 int main()
 {
     char words[200] = "";
-    unsigned long long int figure = 432294967295;    
+    unsigned long long int figure = 0;
+    printf("Enter a number : ");
+    scanf("%lld", &figure);
     printf("%s", toWords(figure, words));
     return 0;
 }
