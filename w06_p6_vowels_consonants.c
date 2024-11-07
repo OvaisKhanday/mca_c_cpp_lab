@@ -20,10 +20,8 @@ int main(){
 
     char *ptr = str1;
     while(*ptr){
-        if(isVowel(*ptr))
-            vowels++;
-            else if(*ptr != ' ')
-                consonants++;
+        if(isVowel(*ptr)) vowels++;
+        else if(*ptr != ' ') consonants++;
         ptr++;
     }
 
