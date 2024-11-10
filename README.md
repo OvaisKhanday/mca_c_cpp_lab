@@ -52,7 +52,7 @@
 
 ## Week 8
 
-- [ ] 1. Write a program to demonstrate the use of pointer to a pointer.
+- [x] 1. Write a program to demonstrate the use of pointer to a pointer.
 - [ ] 2. Write a program to demonstrate the use of pointer to a function.
 - [ ] 3. Write a program to demonstrate the swapping the fields of two structures using pointers?
 - [ ] 4. Write a program in C++ to define class complex which having two data members viz real and imaginary part ?
