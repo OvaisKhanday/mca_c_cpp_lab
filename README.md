@@ -38,7 +38,7 @@
 ## Week 6
 
 - [ ] 1. Write a program to input name, address and telephone number of ‘n’ persons (n<=20). Sort according to the name as a primary key and address as the secondary key. Print the sorted telephone directory.
-- [ ] 2. Write a program to find the number of occurrences of a word in a sentence ?
+- [x] 2. Write a program to find the number of occurrences of a word in a sentence ?
 - [x] 3. Write a program to concatenate two strings without using the inbuilt function?
 - [x] 4. Write a program to check if two strings are same or not?
 - [x] 5. Write a program to check whether a string is a palindrome or not?
