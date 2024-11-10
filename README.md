@@ -62,7 +62,7 @@
 
 - [x] 1. Write a program to instantiate the objects of the class person and class complex ?
 - [x] 2. Write a C++ program to add member function that displays the contents of class person and class complex?
-- [ ] 3. Write a C++ program to demonstrate the use of scope resolution operator?
+- [x] 3. Write a C++ program to demonstrate the use of scope resolution operator?
 - [ ] 4. Write a program in C++ which creates objects of Student class using default, overloaded and copy constructors.
 
 ## Week 10
