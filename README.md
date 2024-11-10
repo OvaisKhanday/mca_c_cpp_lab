@@ -46,7 +46,7 @@
 
 ## Week 7
 
-- [ ] 1. Write a program that reverse the contents of a string.
+- [x] 1. Write a program that reverse the contents of a string.
 - [ ] 2. Write a program to demonstrate the array indexing using pointers.
 - [ ] 3. Write a program to pass a pointer to a structure as a parameter to a function and return back a pointer to structure to the calling function after modifying the members of the structure?
 
