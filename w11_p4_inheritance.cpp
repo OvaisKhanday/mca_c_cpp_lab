@@ -62,7 +62,6 @@ public:
     {
         this->subject = subject;
         this->totalClassesInDay = totalClassesInDay;
-        cout << "Hello World: " << this->totalClassesInDay << endl;
     }
     void print()
     {
