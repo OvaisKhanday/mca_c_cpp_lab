@@ -78,7 +78,7 @@
 - [ ] 1. Write a C++ program to overload the assignment operator.
 - [ ] 2. Write a C++ program to overload comparison operator operator== and operator!= .
 - [ ] 3. Write a C++ program to overload the unary operator.
-- [ ] 4. Write a program in C++ which creates a single-inheritance hierarchy of Person, Employee and Teacher classes and creates instances of each class using new and stores them in an array of Person \* .
+- [x] 4. Write a program in C++ which creates a single-inheritance hierarchy of Person, Employee and Teacher classes and creates instances of each class using new and stores them in an array of Person \* .
 
 ## Week 12
 
