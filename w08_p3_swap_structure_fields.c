@@ -37,7 +37,7 @@ void swap(Student* s1, Student* s2){
 int main(){
 
     Student std1, std2;
-    fill(&std1, 1, "Ovais Ahmad", 90.0f);
+    fill(&std1, 1, "Ovais Ahmad", 43.01f);
     fill(&std2, 12, "Yawar Abbass", 99.0f);
     swap(&std1, &std2);
     printf(" ----- Student 1 ----- \n");
