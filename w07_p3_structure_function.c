@@ -17,12 +17,12 @@ Student* fill(Student* std, int id, char* name, float marks){
 void printStd(Student* std){
     printf("Id: %d\n", std->id);
     printf("Name: %s\n", std->name);
-    printf("Marks: %f\n", std->marks);
+    printf("Marks: %.2f\n", std->marks);
 }
 
 int main(){
 
     Student std;
-    fill(&std, 10, "Ovais Ahmad", 98.0f);
+    fill(&std, 10, "Ovais Ahmad", 43.01f);
     printStd(&std);
 }
