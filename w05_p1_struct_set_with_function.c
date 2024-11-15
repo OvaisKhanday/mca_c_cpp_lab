@@ -1,8 +1,6 @@
 // Implement a function which receiver a pointer to a Student struct and sets the values of its fields.
 
 #include <stdio.h>
-
-
 struct Student{
     int id;
     char *name;
@@ -24,6 +22,6 @@ int main(){
 
     printf("Id: %d\n", std.id);
     printf("Name: %s\n", std.name);
-    printf("Percentage: %f\n", std.percentage);
+    printf("Percentage: %.2f\n", std.percentage);
     return 0;
 }
