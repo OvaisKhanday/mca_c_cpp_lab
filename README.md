@@ -69,7 +69,7 @@
 
 - [x] 1. Write a program to demonstrate the use of different access specifiers.
 - [ ] 2. Write a C++ program to demonstrate the use of inline, friend functions and this keyword.
-- [ ] 3. Write a C++ program to show the use of destructors.
+- [x] 3. Write a C++ program to show the use of destructors.
 - [ ] 4. Write a program in C++ demonstrates the use of function overloading.
 - [ ] 5. Write a C++ program to overload the ‘+’ operator so that it can add two matrices.
 
