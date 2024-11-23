@@ -44,7 +44,7 @@ public:
 
 int main()
 {
-    Student std = Student("Ovais Ahmad Khanday", 23, "7654321234", 1, 43.01f);
+    Student std = Student("Ovais Ahmad Khanday", 23, "7654321234", 1, 54.01f);
     std.print();
 
     return 0;

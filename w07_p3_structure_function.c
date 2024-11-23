@@ -23,6 +23,6 @@ void printStd(Student* std){
 int main(){
 
     Student std;
-    fill(&std, 10, "Ovais Ahmad", 43.01f);
+    fill(&std, 10, "Ovais Ahmad", 38.01f);
     printStd(&std);
 }
