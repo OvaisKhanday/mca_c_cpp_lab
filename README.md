@@ -92,7 +92,7 @@
 - [x] 1. Write a C++ program to demonstrate the use of virtual functions and polymorphism?
 - [x] 2. Write a C++ program to demonstrate the use of pure virtual functions and virtual destructors?
 - [x] 3. Write a C++ program to swap data using function templates.
-- [ ] 4. Write a C++ program to create a simple calculator which can add, subtract, multiply and divide two numbers using class template.
+- [x] 4. Write a C++ program to create a simple calculator which can add, subtract, multiply and divide two numbers using class template.
 
 ## Week 14
 
