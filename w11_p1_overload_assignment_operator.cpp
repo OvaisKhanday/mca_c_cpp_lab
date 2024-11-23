@@ -12,12 +12,11 @@ class Matrix
 public:
     Matrix()
     {
-        int mat[ROWS][COLS] = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
         for (int i = 0; i < ROWS; i++)
         {
             for (int j = 0; j < COLS; j++)
             {
-                this->matrix[i][j] = mat[i][j];
+                this->matrix[i][j] = 0;
             }
         }
     }
