@@ -33,7 +33,7 @@
 - [x] 1. Implement a function which receiver a pointer to a Student struct and sets the values of its fields.
 - [x] 2. Write a program which takes five arguments on command line, opens a file and writes one argument per line in that file and closes the file.
 - [x] 3. Write a program which creates Student (struct) objects using malloc and stores their pointers in an array. It must free the objects after printing their contents.
-- [ ] 4. Write a function char\* stuff(char\* s1,char\* s2,int sp, intrp) to stuff string s2 in string s1 at position sp, replacing rp number of characters (rp may be zero).
+- [x] 4. Write a function char\* stuff(char\* s1,char\* s2,int sp, intrp) to stuff string s2 in string s1 at position sp, replacing rp number of characters (rp may be zero).
 
 ## Week 6
 
