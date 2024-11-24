@@ -26,7 +26,7 @@
 - [x] 1. Write a C function to remove duplicates from an ordered array. For example, if input array contains 10,10,10,30,40,40,50,80,80,100 then output should be 10,30,40,50,80,100.
 - [x] 2. Write a program which will arrange the positive and negative numbers in a one-dimensional array in such a way that all positive numbers should come first and then all the negative numbers will come without changing original sequence of the numbers. Example: Original array contains: 10-15,1,3,-2,0,- 2,-3,2,-9 Modified array: 10,1,3,0,2-15,-2,-2,-3,-9
 - [x] 3. Write a program to compute addition multiplication and transpose of a 2-D array.
-- [ ] 4. Implement a program which uses multiple files for holding multiple functions which are compiled separately, linked together and called by main(). Use static and extern variables in these files.
+- [x] 4. Implement a program which uses multiple files for holding multiple functions which are compiled separately, linked together and called by main(). Use static and extern variables in these files.
 
 ## Week 5
 

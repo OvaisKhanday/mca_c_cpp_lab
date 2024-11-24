@@ -1,0 +1,6 @@
+gcc -c funs.c
+gcc -c main.c
+
+gcc main.o funs.o -o a
+
+./a
