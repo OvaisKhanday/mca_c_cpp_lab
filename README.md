@@ -85,7 +85,7 @@
 - [x] 1. Write a program in C++ which creates a multiple-inheritance hierarchy of Teacher classes derived from both Person, Employee classes. Each class must implement a Show() member function and utilize scope-resolution operator
 - [x] 2. Write a program in C++ demonstrates the concept of function overriding?
 - [x] 3. Write a C++ program to show inheritance using different levels?
-- [ ] 4. Write a C++ program to demonstrate the concepts of abstract class and inner class?
+- [x] 4. Write a C++ program to demonstrate the concepts of abstract class and inner class?
 
 ## Week 13
 
