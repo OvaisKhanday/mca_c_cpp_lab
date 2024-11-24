@@ -4,12 +4,16 @@
 #define FALSE 0
 #define TRUE 1
 
+
 int isVowel(char ch){
     char str[] = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'};
     for (int i = 0; i < sizeof(str); i++){
         if(str[i] == ch) return TRUE;
     }
     return FALSE;
+}
+int isConsonant(char ch){
+    return (((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) && (!isVowel(ch)));
 }
 int main(){
     char str1[100];
@@ -21,7 +25,7 @@ int main(){
     char *ptr = str1;
     while(*ptr){
         if(isVowel(*ptr)) vowels++;
-        else if(*ptr != ' ') consonants++;
+        else if(isConsonant(*ptr)) consonants++;
         ptr++;
     }
 
