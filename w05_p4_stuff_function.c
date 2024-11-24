@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-char *stuffString(char *s1, char *s2, int sp, int rp)
+char *stuff(char *s1, char *s2, int sp, int rp)
 {
     int s1Size = strlen(s1);
     int s2Size = strlen(s2);
@@ -40,6 +40,6 @@ char *stuffString(char *s1, char *s2, int sp, int rp)
 int main()
 {
     char *str;
-    str = stuffString("Hello", "World", 2, 1);
+    str = stuff("Hello", "World", 2, 1);
     printf("%s", str);
 }
